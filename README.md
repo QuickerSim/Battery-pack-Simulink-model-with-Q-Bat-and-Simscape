@@ -1,3 +1,4 @@
+[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103870-battery-pack-simulink-model-with-q-bat-and-simscape)
 # Battery With Heat Transfer Modeled with ROM from Q-Bat
 
 This repository shows how to model electrothermal behavior of a battery 
